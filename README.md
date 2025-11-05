@@ -6,7 +6,7 @@ Fuelled by matcha, curiosity, and making better mistakes each time, I love build
 ---
 
 ### 🧠 What I’m currently building
-- **Matcha Productivity Curve** – exploring motivation and focus through playful data analysis  
+- **Return on Energy (ROE) ** – exploring A/B-testing my caffeine habits (Green Tea vs Dirty Matcha vs Dirty Chai) to discover which delivers the best balance of focus, flow, and creativity  
 - **24-Carrot Gold AI Labubu** – creative storytelling meets product thinking and analytics  
 - **Gen-Z Product Manager v2.3** – documenting my self-launch into product strategy and design  
 
