@@ -29,4 +29,4 @@ Let’s talk about building ideas that make sense *and* make people smile.
 
 ---
 
-> _“Build what you wish existed — and learn something new with every project.”_
+> _“Build what you wish existed and learn something new with every project.”_
