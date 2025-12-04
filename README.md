@@ -70,7 +70,7 @@ I work with Python, APIs, AI assisted tools, Grafana and anything that helps me 
 I enjoy talking about product, design, dashboards and playful experiments.  
 Connect with me on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yuanyuanwatkis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-yuan-watkis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
