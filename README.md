@@ -1,28 +1,37 @@
 # 👋 Hi, I am Yuan
 
-Welcome to my corner of the internet where I build small, creative projects that mix product thinking, data storytelling and playful design. I enjoy turning messy ideas into simple tools that make life a little clearer and more fun.
+Welcome to my corner of the internet.  
+I build small, creative projects that combine product thinking, data storytelling and playful design. I enjoy turning messy ideas into simple tools that make life clearer, easier and a little more fun.
+
+---
+
+## 🚧 Projects in Progress
+
+### 🏙️ If Cities Had a UX Designer  
+A product thinking case study comparing the user experience of London and Shanghai as if both cities were digital products. I am currently building out user journeys, friction points and opportunity maps for both cities.  
+https://github.com/buildsbyyuan/cities-ux-designer-london-china
+
+### 🧃 Return on Energy  
+My active productivity experiment. I am tracking caffeine habits, energy levels and behaviour patterns to design my own Return on Energy framework. I am improving the data structure and the visual storytelling.  
+https://github.com/buildsbyyuan/return-on-energy
+
+### 📊 Grafana Transport Dashboard  
+I am updating my Kings Cross real time transport dashboard to submit it to the Grafana community. Improvements include cleaner visual layers, refined panels and stronger storytelling around movement and flow.  
+https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧃 Return on Energy  
-A data experiment on my daily caffeine habits to find the best “Return on Energy” using testing, tracking and simple behavioural insights.  
-https://github.com/buildsbyyuan/return-on-energy
-
 ### 🎄 Home Alone Security Dashboard  
-A playful AI dashboard built in under seventy minutes at the Vibe Coding Hackathon. Inspired by Kevin’s traps, chaos and creativity.  
+A playful AI powered dashboard built in under seventy minutes at the Vibe Coding Hackathon. Inspired by Kevin’s traps, chaos and creativity.  
 https://github.com/buildsbyyuan/home-alone-security-dashboard
-
-### 🚇 TfL Kings Cross Live Dashboard  
-A real time dashboard using the TfL API. Built with Grafana, the Infinity plugin and a focus on clean transport storytelling.  
-https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
 
 ---
 
 ## 🔍 What I Do
 
-I build small, focused projects that help me practise product decision making, visual communication and rapid experimentation.  
+I build small, focused projects to practise product decision making, visual communication and rapid experimentation.  
 Every repo aims to be clear, accessible and beginner friendly.
 
 ---
