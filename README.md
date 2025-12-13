@@ -1,4 +1,4 @@
-# 👋 Hi, I am Yuan
+# 👋 Hi, I am Yuan-Yuan
 
 Welcome to my corner of the internet.  
 I build small, creative projects that combine product thinking, data storytelling and playful design. I enjoy turning messy ideas into simple tools that make life clearer, easier and a little more fun.
