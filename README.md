@@ -1,48 +1,89 @@
-# 👋 Hi, I am Yuan-Yuan
+# 👋 Hi, I’m Yuan-Yuan
 
-Welcome to my corner of the internet.  
-I build small, creative projects that combine product thinking, data storytelling and playful design. I enjoy turning messy ideas into simple tools that make life clearer, easier and a little more fun.
+Welcome to my corner of the internet 🌿
+
+I build small, creative projects that combine product thinking, data storytelling, and playful design. I enjoy turning messy ideas into simple tools that make life clearer, easier, and a little more fun.
+
+This GitHub is where I experiment, learn in public, and ship.
+
+---
+
+## ✨ New Year, Same Me (2026 Edition)
+
+Going into 2026, my focus is simple:
+build thoughtfully, document clearly, and enjoy the process.
+
+When life gives you lemons, remember lemons are made of two fruits.  
+Mine are made of drive and attitude 🍋
 
 ---
 
 ## 🚧 Projects in Progress
 
 ### 🏙️ If Cities Had a UX Designer  
-A product thinking case study comparing the user experience of London and Shanghai as if both cities were digital products. I am currently building out user journeys, friction points and opportunity maps for both cities.  
-https://github.com/buildsbyyuan/cities-ux-designer-london-china
+A product thinking case study comparing the user experience of London and Shanghai as if both cities were digital products.
+
+Current work includes:
+- User journeys and daily interactions  
+- Friction points across transport and navigation  
+- Opportunity mapping through a product lens  
+
+🔗 https://github.com/buildsbyyuan/cities-ux-designer-london-china
+
+---
 
 ### 🧃 Return on Energy  
-My active productivity experiment. I am tracking caffeine habits, energy levels and behaviour patterns to design my own Return on Energy framework. I am improving the data structure and the visual storytelling.  
-https://github.com/buildsbyyuan/return-on-energy
+An ongoing productivity experiment exploring how caffeine habits affect energy, focus, and behaviour.
+
+I am designing my own Return on Energy framework by improving:
+- Data structure and logging  
+- Metrics that reflect energy, not hours  
+- Visual storytelling and clarity  
+
+🔗 https://github.com/buildsbyyuan/return-on-energy
+
+---
 
 ### 📊 Grafana Transport Dashboard  
-I am updating my Kings Cross real time transport dashboard to submit it to the Grafana community. Improvements include cleaner visual layers, refined panels and stronger storytelling around movement and flow.  
-https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
+A real time Kings Cross transport dashboard built using TfL data.
+
+Current improvements focus on:
+- Cleaner visual layers  
+- Clearer panels and hierarchy  
+- Stronger storytelling around movement and flow  
+
+🔗 https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🎄 Home Alone Security Dashboard  
-A playful AI powered dashboard built in under seventy minutes at the Vibe Coding Hackathon. Inspired by Kevin’s traps, chaos and creativity.  
-https://github.com/buildsbyyuan/home-alone-security-dashboard
+A playful AI powered security dashboard built in under seventy minutes at the Vibe Coding Hackathon.  
+Inspired by chaos, creativity, and Kevin McCallister.
+
+🔗 https://github.com/buildsbyyuan/home-alone-security-dashboard
 
 ---
 
 ## 🔍 What I Do
 
-I build small, focused projects to practise product decision making, visual communication and rapid experimentation.  
-Every repo aims to be clear, accessible and beginner friendly.
+I build small, focused projects to practise:
+- Product decision making  
+- Visual communication  
+- Rapid experimentation  
+
+Every repository aims to be clear, accessible, and beginner friendly.
 
 ---
 
 ## 🧠 Skills in Action
 
-- Turning raw data into simple dashboards  
-- Writing clear, structured product documentation  
-- Rapid prototyping with AI tools  
+- Turning raw data into simple, decision ready dashboards  
+- Writing clear and structured product documentation  
+- Rapid prototyping with AI assisted tools  
 - Creating playful, user centred micro experiences  
-- Breaking down ideas into small MVPs I can ship quickly
+- Breaking ideas into small MVPs that can ship quickly  
 
 ---
 
@@ -53,37 +94,44 @@ Every repo aims to be clear, accessible and beginner friendly.
 ![APIs](https://img.shields.io/badge/APIs-0052CC?style=flat)
 ![AI Tools](https://img.shields.io/badge/AI_Tools-8A2BE2?style=flat)
 
-I work with Python, APIs, AI assisted tools, Grafana and anything that helps me turn ideas into something visual.
+I work with Python, APIs, AI assisted tools, Grafana, and anything that helps me turn ideas into something visual and understandable.
 
 ---
 
-## 🎯 Current Focus
+## 🎯 Current Focus (This Month)
 
-- Building weekly micro projects to keep my GitHub active  
-- Practising product thinking through small experiments  
-- Exploring more creative uses of AI and simple automation  
-- Improving the visual storytelling in each repo
+- Progressing one core project rather than many small ones  
+- Improving visual storytelling and documentation quality  
+- Adding screenshots and explanations to existing repositories  
+- Exploring creative uses of public data and light automation  
 
 ---
 
-## 📆 This Week
+## 📅 How I Use GitHub
 
-- Adding screenshots and refinements to my dashboards  
-- Writing beginner friendly explanations for my repos  
-- Planning a new micro project involving public data
+I update this profile monthly rather than weekly.
+
+Each month usually includes:
+- One meaningful improvement to a project  
+- Clearer visuals or documentation  
+- Reflection on what worked and what did not  
+
+This helps me stay consistent without rushing ideas.
 
 ---
 
 ## 💬 Let’s Connect
 
-I enjoy talking about product, design, dashboards and playful experiments.  
-Connect with me on LinkedIn:
+I enjoy talking about product, design, dashboards, and playful experiments.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-yuan-watkis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+LinkedIn:  
+https://www.linkedin.com/in/yuan-yuan-watkis/
 
 ---
 
-### 🍵 Fun fact  
+## 🍵 Fun fact
+
 I measure my productivity in matcha cups, not hours.
 
-> _“Build what you wish existed and learn something new with every project.”_
+> Build what you wish existed and learn something new with every project.
+
