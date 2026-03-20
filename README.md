@@ -1,10 +1,9 @@
 # 👋 Hi, I’m Yuan-Yuan
 
-Welcome to my corner of the internet 🌿
+I am an aspiring Product Manager learning through building, testing, and a lot of trial and error.
 
-I build small, creative projects that combine product thinking, data storytelling, and playful design. I enjoy turning messy ideas into simple tools that make life clearer, easier, and a little more fun.
-
-This GitHub is where I experiment, learn in public, and ship.
+This space reflects how I actually learn:
+not perfectly, but consistently.
 
 ---
 
@@ -16,116 +15,93 @@ build thoughtfully, document clearly, and enjoy the process.
 When life gives you lemons, remember lemons are made of two fruits.  
 Mine are made of drive and attitude 🍋
 
+
 ---
 
-## 🚧 Projects in Progress
+## 🎯 What I’m Doing Right Now
+
+- Building small products to understand how ideas translate into real use  
+- Learning through iteration, including mistakes and rework  
+- Attending Product Management events and learning from practitioners  
+- Getting involved in PM and tech communities to understand industry thinking  
+
+I am less focused on getting things “right first time” and more focused on improving how I think, decide, and build.
+
+---
+
+## 🚧 Current Work
 
 ### 🏙️ If Cities Had a UX Designer  
-A product thinking case study comparing the user experience of London and Shanghai as if both cities were digital products.
+A product-style case study analysing London vs Shanghai as user experiences.
 
-Current work includes:
-- User journeys and daily interactions  
-- Friction points across transport and navigation  
-- Opportunity mapping through a product lens  
+Focus:
+- Understanding user journeys in real systems  
+- Identifying friction and missed opportunities  
+- Thinking about cities through a product lens  
 
 🔗 https://github.com/buildsbyyuan/cities-ux-designer-london-china
 
 ---
 
 ### 🧃 Return on Energy  
-An ongoing productivity experiment exploring how caffeine habits affect energy, focus, and behaviour.
+A personal experiment exploring how energy impacts productivity.
 
-I am designing my own Return on Energy framework by improving:
-- Data structure and logging  
-- Metrics that reflect energy, not hours  
-- Visual storytelling and clarity  
+Focus:
+- Building and refining my own data structure  
+- Testing what metrics actually reflect performance  
+- Learning what works through repeated iteration  
 
 🔗 https://github.com/buildsbyyuan/return-on-energy
 
 ---
 
-### 📊 Grafana Transport Dashboard  
-A real time Kings Cross transport dashboard built using TfL data.
+### 📊 Kings Cross Transport Dashboard  
+A live dashboard using TfL data.
 
-Current improvements focus on:
-- Cleaner visual layers  
-- Clearer panels and hierarchy  
-- Stronger storytelling around movement and flow  
+Focus:
+- Making data readable and useful  
+- Improving clarity through multiple iterations  
+- Learning how users might interpret real-time information  
 
 🔗 https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Selected Build
 
 ### 🎄 Home Alone Security Dashboard  
-A playful AI powered security dashboard built in under seventy minutes at the Vibe Coding Hackathon.  
-Inspired by chaos, creativity, and Kevin McCallister.
+A rapid prototype built under time pressure.
 
-🔗 https://github.com/buildsbyyuan/home-alone-security-dashboard
-
----
-
-## 🔍 What I Do
-
-I build small, focused projects to practise:
-- Product decision making  
-- Visual communication  
-- Rapid experimentation  
-
-Every repository aims to be clear, accessible, and beginner friendly.
+Focus:
+- Moving from idea to output quickly  
+- Learning by doing rather than over-planning  
+- Accepting imperfect results and improving from there  
 
 ---
 
-## 🧠 Skills in Action
+## 🧠 How I Work
 
-- Turning raw data into simple, decision ready dashboards  
-- Writing clear and structured product documentation  
-- Rapid prototyping with AI assisted tools  
-- Creating playful, user centred micro experiences  
-- Breaking ideas into small MVPs that can ship quickly  
+- Learn by doing, not just reading  
+- Iterate quickly, even when the first version is wrong  
+- Reflect, adjust, and try again  
 
 ---
 
-## 🛠️ Tech and Tools
+## 📍 Currently
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-0052CC?style=flat)
-![AI Tools](https://img.shields.io/badge/AI_Tools-8A2BE2?style=flat)
-
-I work with Python, APIs, AI assisted tools, Grafana, and anything that helps me turn ideas into something visual and understandable.
+- Mechanical Engineering graduate  
+- Applying to Product Management graduate programmes  
+- Actively learning through projects, events, and community  
 
 ---
 
-## 🎯 Current Focus (This Month)
+## 🌿 Note to Future Employers
 
-- Progressing one core project rather than many small ones  
-- Improving visual storytelling and documentation quality  
-- Adding screenshots and explanations to existing repositories  
-- Exploring creative uses of public data and light automation  
+Most of what you see here was not built perfectly the first time.
 
----
+It was built, tested, questioned, and improved.
 
-## 📅 How I Use GitHub
-
-I update this profile monthly rather than weekly.
-
-Each month usually includes:
-- One meaningful improvement to a project  
-- Clearer visuals or documentation  
-- Reflection on what worked and what did not  
-
-This helps me stay consistent without rushing ideas.
-
----
-
-## 💬 Let’s Connect
-
-I enjoy talking about product, design, dashboards, and playful experiments.
-
-LinkedIn:  
-https://www.linkedin.com/in/yuan-yuan-watkis/
+I am early in my journey, but I am intentional about how I learn and how quickly I improve.
 
 ---
 
