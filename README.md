@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Yuan-Yuan
 
-I am an aspiring Product Manager learning through building, testing, and a lot of trial and error.
+I am learning through building, testing, and a lot of trial and error.
 
 This space reflects how I actually learn:
 not perfectly, but consistently.
