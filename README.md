@@ -1,8 +1,10 @@
 # 👋 Hi, I’m Yuan-Yuan
 
-I am learning through building, testing, and a lot of trial and error.
+I’m a Mechanical Engineering graduate moving into Product Management through building, testing, and learning in public.
 
-This space reflects how I actually learn:
+My work sits around user behaviour, everyday friction, and how better product thinking can make systems feel clearer, smarter, and easier to use.
+
+This GitHub is where I document that process honestly:
 not perfectly, but consistently.
 
 ---
@@ -10,60 +12,64 @@ not perfectly, but consistently.
 ## ✨ New Year, Same Me (2026 Edition)
 
 Going into 2026, my focus is simple:
-build thoughtfully, document clearly, and enjoy the process.
+
+build thoughtfully, document clearly, and keep getting better.
 
 When life gives you lemons, remember lemons are made of two fruits.  
 Mine are made of drive and attitude 🍋
 
-
 ---
 
-## 🎯 What I’m Doing Right Now
+## 🎯 What I’m Focused On Right Now
 
-- Building small products to understand how ideas translate into real use  
-- Learning through iteration, including mistakes and rework  
-- Attending Product Management events and learning from practitioners  
-- Getting involved in PM and tech communities to understand industry thinking  
+- Building small products and case studies to strengthen my product thinking  
+- Exploring how data, UX, and behaviour shape real user decisions  
+- Learning from iteration, including mistakes, rework, and better second versions  
+- Getting closer to industry through Product, fintech, and tech insight programmes  
+- Exploring new ideas inspired by travel, place, and everyday user experience  
 
-I am less focused on getting things “right first time” and more focused on improving how I think, decide, and build.
+I am less focused on getting things right first time and more focused on improving how I think, decide, and build.
 
 ---
 
 ## 🚧 Current Work
 
 ### 🏙️ If Cities Had a UX Designer  
-A product-style case study analysing London vs Shanghai as user experiences.
+A product-style case study analysing London and Shanghai as user experiences.
 
-Focus:
-- Understanding user journeys in real systems  
-- Identifying friction and missed opportunities  
-- Thinking about cities through a product lens  
+**Focus:**
+- Mapping user journeys in real-world systems  
+- Identifying friction, inefficiencies, and missed opportunities  
+- Thinking about cities through a product and service design lens  
+- Turning observation and research into structured product thinking  
 
-🔗 https://github.com/buildsbyyuan/cities-ux-designer-london-china
+🔗 [cities-ux-designer-london-china](https://github.com/buildsbyyuan/cities-ux-designer-london-china)
 
 ---
 
 ### 🧃 Return on Energy  
-A personal experiment exploring how energy impacts productivity.
+A personal experiment exploring how energy habits affect productivity.
 
-Focus:
-- Building and refining my own data structure  
+**Focus:**
+- Structuring messy personal data into something usable  
 - Testing what metrics actually reflect performance  
-- Learning what works through repeated iteration  
+- Learning through repeated iteration rather than perfect set-up  
+- Treating everyday behaviour like a product problem worth analysing  
 
-🔗 https://github.com/buildsbyyuan/return-on-energy
+🔗 [return-on-energy](https://github.com/buildsbyyuan/return-on-energy)
 
 ---
 
 ### 📊 Kings Cross Transport Dashboard  
-A live dashboard using TfL data.
+A live dashboard built using TfL data.
 
-Focus:
-- Making data readable and useful  
+**Focus:**
+- Making real-time data more readable and useful  
 - Improving clarity through multiple iterations  
-- Learning how users might interpret real-time information  
+- Thinking about how users interpret live information under time pressure  
+- Building with usability, visibility, and decision-making in mind  
 
-🔗 https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
+🔗 [tfl-kings-cross-live-dashboard](https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard)
 
 ---
 
@@ -72,10 +78,36 @@ Focus:
 ### 🎄 Home Alone Security Dashboard  
 A rapid prototype built under time pressure.
 
-Focus:
+**Focus:**
 - Moving from idea to output quickly  
-- Learning by doing rather than over-planning  
-- Accepting imperfect results and improving from there  
+- Scoping an MVP without overcomplicating it  
+- Learning by doing rather than waiting for perfect certainty  
+- Using speed, humour, and structure to communicate an idea clearly  
+
+---
+
+## 🔍 In Ideation
+
+I am also developing a few early-stage ideas inspired by travel, place, and everyday user experience.
+
+### 🇺🇿 Uzbekistan
+Ahead of a potential trip to Uzbekistan, I am exploring the possibility of building a project around a user experience, service, or systems-based problem observed through travel.
+
+### 🇯🇲 Jamaica
+I am also in the early stages of thinking about a project connected to Jamaica, with a focus on turning cultural or everyday observations into a clearer product or user problem to explore.
+
+---
+
+## 🧠 Recent Exposure
+
+Alongside building my own work, I have also been learning from teams already working in Product and fintech.
+
+Recently, I took part in in-person insight programmes at **Wise** and **Zilch**, which gave me more exposure to how product, engineering, growth, and customer thinking come together in practice.
+
+These experiences helped me better understand:
+- how digital products are shaped around real customer needs  
+- how teams balance user experience, business goals, and technical constraints  
+- how better product decisions are often driven by clarity, iteration, and collaboration  
 
 ---
 
@@ -83,25 +115,29 @@ Focus:
 
 - Learn by doing, not just reading  
 - Iterate quickly, even when the first version is wrong  
-- Reflect, adjust, and try again  
+- Look for the user problem underneath the surface issue  
+- Reflect, adjust, and improve with each version  
 
 ---
 
 ## 📍 Currently
 
 - Mechanical Engineering graduate  
-- Applying to Product Management graduate programmes  
-- Actively learning through projects, events, and community  
+- Moving into Product Management and related roles  
+- Building projects that strengthen my thinking across product, UX, and data  
+- Learning through hands-on work, insight programmes, events, and community  
 
 ---
 
-## 🌿 Note to Future Employers
+## 🌿 Why This GitHub Exists
 
 Most of what you see here was not built perfectly the first time.
 
 It was built, tested, questioned, and improved.
 
-I am early in my journey, but I am intentional about how I learn and how quickly I improve.
+That is the point.
+
+I am still early in my journey, but I am intentional about how I learn, how I document, and how I keep improving.
 
 ---
 
@@ -109,4 +145,4 @@ I am early in my journey, but I am intentional about how I learn and how quickly
 
 I measure my productivity in matcha cups, not hours.
 
-> Build what you wish existed and learn something new with every project.
+> build what you wish existed and learn something new with every project
