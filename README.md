@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Yuan-Yuan
 
-I’m a Mechanical Engineering graduate moving into Product Management through building, testing, and learning in public.
+I’m a Mechanical Engineering graduate building toward roles across Product, CRM, and Growth through hands-on projects, case studies, and learning in public.
 
-My work sits around user behaviour, everyday friction, and how better product thinking can make systems feel clearer, smarter, and easier to use.
+My work sits across user behaviour, lifecycle thinking, UX, data, and everyday friction. I’m especially interested in how better decisions, clearer communication, and more thoughtful design can make systems easier to use.
 
 This GitHub is where I document that process honestly:
 not perfectly, but consistently.
@@ -22,26 +22,26 @@ Mine are made of drive and attitude 🍋
 
 ## 🎯 What I’m Focused On Right Now
 
-- Building small products and case studies to strengthen my product thinking  
-- Exploring how data, UX, and behaviour shape real user decisions  
+- Building small projects and case studies to strengthen how I think about users, systems, and decisions  
+- Exploring how data, UX, and behaviour shape real customer actions  
 - Learning from iteration, including mistakes, rework, and better second versions  
-- Getting closer to industry through Product, fintech, and tech insight programmes  
+- Getting closer to industry through fintech, Product, and Growth insight programmes  
 - Exploring new ideas inspired by travel, place, and everyday user experience  
 
-I am less focused on getting things right first time and more focused on improving how I think, decide, and build.
+I am less focused on getting things right first time and more focused on improving how I think, communicate, and build.
 
 ---
 
 ## 🚧 Current Work
 
 ### 🏙️ If Cities Had a UX Designer  
-A product-style case study analysing London and Shanghai as user experiences.
+A case study analysing London and Shanghai as user experiences.
 
 **Focus:**
 - Mapping user journeys in real-world systems  
 - Identifying friction, inefficiencies, and missed opportunities  
-- Thinking about cities through a product and service design lens  
-- Turning observation and research into structured product thinking  
+- Thinking about services, decisions, and environments through a user lens  
+- Turning observation and research into clearer recommendations  
 
 🔗 [cities-ux-designer-london-china](https://github.com/buildsbyyuan/cities-ux-designer-london-china)
 
@@ -54,7 +54,7 @@ A personal experiment exploring how energy habits affect productivity.
 - Structuring messy personal data into something usable  
 - Testing what metrics actually reflect performance  
 - Learning through repeated iteration rather than perfect set-up  
-- Treating everyday behaviour like a product problem worth analysing  
+- Exploring how behaviour and routines affect outcomes over time  
 
 🔗 [return-on-energy](https://github.com/buildsbyyuan/return-on-energy)
 
@@ -94,20 +94,20 @@ I am also developing a few early-stage ideas inspired by travel, place, and ever
 Ahead of a potential trip to Uzbekistan, I am exploring the possibility of building a project around a user experience, service, or systems-based problem observed through travel.
 
 ### 🇯🇲 Jamaica
-I am also in the early stages of thinking about a project connected to Jamaica, with a focus on turning cultural or everyday observations into a clearer product or user problem to explore.
+I am also in the early stages of thinking about a project connected to Jamaica, with a focus on turning cultural or everyday observations into a clearer user problem or opportunity to explore.
 
 ---
 
-## 🧠 Recent Exposure
+## 🧠 Industry Exposure
 
-Alongside building my own work, I have also been learning from teams already working in Product and fintech.
+Alongside building my own work, I have also been learning from teams already working across fintech, Product, and Growth.
 
-Recently, I took part in in-person insight programmes at **Wise** and **Zilch**, which gave me more exposure to how product, engineering, growth, and customer thinking come together in practice.
+Recently, I took part in in-person insight programmes at **Wise** and **Zilch**, which gave me more exposure to how product thinking, customer communication, analytics, and growth work together in practice.
 
 These experiences helped me better understand:
-- how digital products are shaped around real customer needs  
+- how digital products and communications are shaped around real customer needs  
 - how teams balance user experience, business goals, and technical constraints  
-- how better product decisions are often driven by clarity, iteration, and collaboration  
+- how better decisions often come from strong collaboration, good judgement, and iteration  
 
 ---
 
@@ -117,14 +117,15 @@ These experiences helped me better understand:
 - Iterate quickly, even when the first version is wrong  
 - Look for the user problem underneath the surface issue  
 - Reflect, adjust, and improve with each version  
+- Care about clarity, not just ideas  
 
 ---
 
 ## 📍 Currently
 
 - Mechanical Engineering graduate  
-- Moving into Product Management and related roles  
-- Building projects that strengthen my thinking across product, UX, and data  
+- Exploring opportunities across Product, CRM, and Growth  
+- Building projects that strengthen my thinking across users, UX, data, and decision-making  
 - Learning through hands-on work, insight programmes, events, and community  
 
 ---
