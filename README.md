@@ -1,149 +1,179 @@
-# 👋 Hi, I’m Yuan-Yuan
+# 👋 Hiya all, I’m Yuan-Yuan
 
-I’m a Mechanical Engineering graduate building toward roles across Product, CRM, and Growth through hands-on projects, case studies, and learning in public.
+Mechanical Engineering graduate and Growth Marketer, currently working in CRM at Wise.
 
-My work sits across user behaviour, lifecycle thinking, UX, data, and everyday friction. I’m especially interested in how better decisions, clearer communication, and more thoughtful design can make systems easier to use.
+I am especially interested in Product Management and Product Marketing, and in how growth, product, data, and user behaviour overlap.
 
-This GitHub is where I document that process honestly:
-not perfectly, but consistently.
+Outside work, I use personal projects to explore different parts of that space through research, experimentation, product thinking, and increasingly, SQL and data analysis.
 
----
-
-## ✨ New Year, Same Me (2026 Edition)
-
-Going into 2026, my focus is simple:
-
-build thoughtfully, document clearly, and keep getting better.
-
-When life gives you lemons, remember lemons are made of two fruits.  
-Mine are made of drive and attitude 🍋
+This GitHub is where I learn by building, testing, questioning, and improving.
 
 ---
 
-## 🎯 What I’m Focused On Right Now
+## ✨ New Year, Same Me: 2026 Edition
 
-- Building small projects and case studies to strengthen how I think about users, systems, and decisions  
-- Exploring how data, UX, and behaviour shape real customer actions  
-- Learning from iteration, including mistakes, rework, and better second versions  
-- Getting closer to industry through fintech, Product, and Growth insight programmes  
-- Exploring new ideas inspired by travel, place, and everyday user experience  
+My focus this year has been simple:
 
-I am less focused on getting things right first time and more focused on improving how I think, communicate, and build.
+**Build thoughtfully, document clearly, and keep learning through doing.**
 
----
+That has meant working on personal projects, attending product and tech events, taking part in industry insight programmes, learning from practitioners, and building hands-on experience in Growth.
 
-## 🚧 Current Work
+I still learn through a lot of trial and error. I just have better questions now.
 
-### 🏙️ If Cities Had a UX Designer  
-A case study analysing London and Shanghai as user experiences.
-
-**Focus:**
-- Mapping user journeys in real-world systems  
-- Identifying friction, inefficiencies, and missed opportunities  
-- Thinking about services, decisions, and environments through a user lens  
-- Turning observation and research into clearer recommendations  
-
-🔗 [cities-ux-designer-london-china](https://github.com/buildsbyyuan/cities-ux-designer-london-china)
+When life gives you lemons, remember lemons are made from two fruits.  
+Mine are made from drive and attitude 🍋
 
 ---
 
-### 🧃 Return on Energy  
-A personal experiment exploring how energy habits affect productivity.
+## 🧩 Exploring Product, Growth and Data Through Projects
 
-**Focus:**
-- Structuring messy personal data into something usable  
-- Testing what metrics actually reflect performance  
-- Learning through repeated iteration rather than perfect set-up  
-- Exploring how behaviour and routines affect outcomes over time  
+I am deliberately using different projects to explore different skills rather than building the same thing repeatedly.
 
-🔗 [return-on-energy](https://github.com/buildsbyyuan/return-on-energy)
+### 🏙️ If Cities Had a UX Designer
+**UX research + systems thinking | Completed**
 
----
+What happens when you stop treating cities as places and start treating them as products?
 
-### 📊 Kings Cross Transport Dashboard  
-A live dashboard built using TfL data.
+I compared London and Shanghai through the experience of using them, looking at areas such as transport, payments, wayfinding, accessibility, and everyday friction.
 
-**Focus:**
-- Making real-time data more readable and useful  
-- Improving clarity through multiple iterations  
-- Thinking about how users interpret live information under time pressure  
-- Building with usability, visibility, and decision-making in mind  
+This project pushed me to spend more time understanding a system before jumping straight to solutions.
 
-🔗 [tfl-kings-cross-live-dashboard](https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard)
+🔗 https://github.com/buildsbyyuan/cities-ux-designer-london-china
 
 ---
 
-## 🚀 Selected Build
+### 📱 The Cost of Scrolling
+**Product decisions + trade-offs | Building**
 
-### 🎄 Home Alone Security Dashboard  
-A rapid prototype built under time pressure.
+My current product decision project.
 
-**Focus:**
-- Moving from idea to output quickly  
-- Scoping an MVP without overcomplicating it  
-- Learning by doing rather than waiting for perfect certainty  
-- Using speed, humour, and structure to communicate an idea clearly  
+I am exploring how conversational AI could change the way people make decisions in high-choice digital experiences.
 
----
+Rather than creating another UX case study, I am using this project to practise a different question:
 
-## 🔍 In Ideation
+**There are several things we could build. What should we actually build, what should we not build, and why?**
 
-I am also developing a few early-stage ideas inspired by travel, place, and everyday user experience.
-
-### 🇺🇿 Uzbekistan
-Ahead of a potential trip to Uzbekistan, I am exploring the possibility of building a project around a user experience, service, or systems-based problem observed through travel.
-
-### 🇯🇲 Jamaica
-I am also in the early stages of thinking about a project connected to Jamaica, with a focus on turning cultural or everyday observations into a clearer user problem or opportunity to explore.
+🔗 https://github.com/buildsbyyuan/the-cost-of-scrolling
 
 ---
 
-## 🧠 Industry Exposure
+### 🧃 Return on Energy
+**Experimentation + metrics | Building privately**
 
-Alongside building my own work, I have also been learning from teams already working across fintech, Product, and Growth.
+It started with a very serious question:
 
-Recently, I took part in in-person insight programmes at **Wise** and **Zilch**, which gave me more exposure to how product thinking, customer communication, analytics, and growth work together in practice.
+**Green tea, dirty matcha or dirty chai. Which gives me the best Return on Energy? ☕**
 
-These experiences helped me better understand:
-- how digital products and communications are shaped around real customer needs  
-- how teams balance user experience, business goals, and technical constraints  
-- how better decisions often come from strong collaboration, good judgement, and iteration  
+I am using a slightly ridiculous personal problem to practise defining useful metrics, structuring experiments, testing assumptions, interpreting behaviour, and changing my approach when the data tells me something unexpected.
 
----
-
-## 🧠 How I Work
-
-- Learn by doing, not just reading  
-- Iterate quickly, even when the first version is wrong  
-- Look for the user problem underneath the surface issue  
-- Reflect, adjust, and improve with each version  
-- Care about clarity, not just ideas  
+Currently private while I continue experimenting.
 
 ---
 
-## 📍 Currently
+### 📊 King’s Cross Live Transport Dashboard
+**Data + visualisation | Iterating**
 
-- Mechanical Engineering graduate  
-- Exploring opportunities across Product, CRM, and Growth  
-- Building projects that strengthen my thinking across users, UX, data, and decision-making  
-- Learning through hands-on work, insight programmes, events, and community  
+A real-time TfL dashboard built using Grafana and API data.
+
+This project taught me that displaying data and communicating data are two different things.
+
+I have been iterating on the hierarchy, panels, and visual storytelling to make live transport information easier to interpret at a glance.
+
+🔗 https://github.com/buildsbyyuan/tfl-kings-cross-live-dashboard
 
 ---
 
-## 🌿 Why This GitHub Exists
+### 🎄 Home Alone Security Dashboard
+**Rapid prototyping | Shipped**
 
-Most of what you see here was not built perfectly the first time.
+An AI-powered security dashboard built in under 70 minutes at the Vibe Coding Hackathon.
 
-It was built, tested, questioned, and improved.
+It was an exercise in moving quickly, deciding what mattered, accepting what I could not build in the available time, and actually shipping something.
 
-That is the point.
+🔗 https://github.com/buildsbyyuan/home-alone-security-dashboard
 
-I am still early in my journey, but I am intentional about how I learn, how I document, and how I keep improving.
+---
+
+## 🗄️ What I’m Learning Next
+
+I am currently building my SQL and data analysis skills.
+
+Rather than only completing isolated exercises, I want to use SQL to answer real product and growth questions, such as:
+
+- Where are users dropping off?
+- Which behaviours are associated with repeat usage?
+- Which customer segments should be prioritised?
+- What does the data suggest we should investigate next?
+
+These projects will be added here as I build them.
+
+---
+
+## 💼 Learning Beyond GitHub
+
+A lot of my learning also happens through my day-to-day work.
+
+I currently work in **CRM Growth at Wise**, where I am developing hands-on experience across lifecycle marketing, experimentation, customer communications, localisation, research, and growth operations.
+
+Working in Growth has made me increasingly interested in the overlap between marketing, product, data, and user behaviour.
+
+I enjoy understanding not only how we communicate with customers, but also how the wider customer experience influences the decisions they make.
+
+Outside work, I use GitHub projects to explore areas of Product Management and Product Marketing that I do not always get to practise directly in my role.
+
+---
+
+## 🎯 September 2026
+
+Right now I am:
+
+- Developing my skills in CRM and Growth at Wise
+- Exploring Product Management and Product Marketing through personal projects
+- Building stronger SQL and data analysis skills
+- Publishing my completed London vs Shanghai urban UX case study
+- Developing The Cost of Scrolling as a product decision project
+- Planning an Uzbekistan-based project focused on product strategy and prioritisation
+- Learning through product, marketing, and technology events and communities
+- Applying for selected graduate opportunities across Product, Product Marketing, Growth, and adjacent roles
+
+I update this section monthly as my work and interests develop.
+
+---
+
+## 🧠 How I Learn
+
+**Get curious → build something → get something wrong → figure out why → improve it → repeat.**
+
+I do not want this GitHub to pretend every project arrived fully formed.
+
+The iterations, mistakes, abandoned ideas, and changes of direction are part of the learning too.
+
+---
+
+## 🛠️ Tools I’ve Used
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-0052CC?style=flat)
+![AI Tools](https://img.shields.io/badge/AI_Tools-8A2BE2?style=flat)
+
+Python, Grafana, SQL, APIs, AI-assisted tools, dashboards, spreadsheets, and whatever else helps me investigate the problem in front of me.
+
+I am more interested in choosing the right tool for the problem than collecting the longest tool list.
+
+---
+
+## 💬 Let’s Connect
+
+I am always interested in meeting people working across Product, Product Marketing, Growth, CRM, fintech, and technology, especially people willing to share what they have learned along the way.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuan-yuan-watkis)
 
 ---
 
 ## 🍵 Fun fact
 
-I measure my productivity in matcha cups, not hours.
+I still measure productivity in matcha cups, not hours.
 
-> build what you wish existed and learn something new with every project
+> Build it. Break it. Learn why. Build it better.
