@@ -2,7 +2,7 @@
 
 Mechanical Engineering graduate and Growth Marketer, currently working in CRM at Wise.
 
-I am especially interested in Product Management and Product Marketing, and in how growth, product, data, and user behaviour overlap.
+I am especially interested in the product space and in how growth, product, data, and user behaviour overlap.
 
 Outside work, I use personal projects to explore different parts of that space through research, experimentation, product thinking, and increasingly, SQL and data analysis.
 
